@@ -16,18 +16,18 @@ This project is an **AI-powered music system** that detects **facial expressions
 - **TensorFlow/Keras** (machine learning models)  
 - **Spotify API** (music playback integration)
 
-Usage
+## Usage
 Start the application and allow camera access.
 Make a hand gesture to adjust the volume.
 Facial expressions will determine music recommendations.
 
-License
+## License
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
 
-Contributors
+## Contributors
 Arnav Singh
 Anmol Kumar
 
-Acknowledgments
+## Acknowledgments
 Inspired by computer vision-based gesture recognition research.
 Thanks to the open-source community for tools like MediaPipe and TensorFlow.
